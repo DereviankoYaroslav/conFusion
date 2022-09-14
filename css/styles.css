@@ -36,3 +36,12 @@ body {
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.my-form {
+    background-color: #ffc400;
+}
+
+.my-button {
+    background-color: #ffc400;
+    color: #0F0F0F;
+}
