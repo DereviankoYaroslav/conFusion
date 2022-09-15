@@ -69,17 +69,17 @@ body{
 
 .carousel {
     background: $background-dark;
+}
 
-    .caroulse-item {
-        height: $carousel-item-height;
+.caroulse-item {
+    height: $carousel-item-height;
+}
 
-        img {
-            position: absolute;
-            top: 0;
-            left: 0;
-            min-height: 300px;
-        }
-    }
+.caroulse-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
 }
 
 #section input[type="radio"]{

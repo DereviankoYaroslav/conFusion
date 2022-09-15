@@ -90,7 +90,7 @@ body {
   color: floralwhite;
   font-weight: bold; }
 
-#loginModal .modal-header button {
+#loginModal .modal-header .close {
   color: floralwhite; }
 
 #loginModal .modal-body {
@@ -104,5 +104,5 @@ body {
 #reserveModal .modal-body {
   background-color: #D1C4E9; }
 
-#reserveModal .modal-header button {
+#reserveModal .modal-header .close {
   color: floralwhite; }
