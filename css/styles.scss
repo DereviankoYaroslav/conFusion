@@ -121,6 +121,10 @@ body{
     font-weight: bold;
 }
 
+#loginModal .modal-header .close{
+    color: floralwhite;
+}
+
 #loginModal .modal-body {
     background-color: $background-pale;
 }
@@ -133,4 +137,8 @@ body{
 
 #reserveModal .modal-body {
     background-color: $background-pale;
+}
+
+#reserveModal .modal-header .close{
+    color: floralwhite;
 }
