@@ -89,3 +89,9 @@ body {
 #my-success {
     border-radius: 5px 0px 0px 5px;
 }
+
+#carouselButton {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
