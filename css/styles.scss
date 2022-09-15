@@ -47,11 +47,24 @@ body{
      background-color: $background-dark;
 }
 
+.my-form {
+    background-color: #ffc400;
+}
+
+.my-button {
+    background-color: #ffc400;
+    color: #0F0F0F;
+}
+
 .tab-content {
     border-left: 1px solid $lt-gray;
     border-right: 1px solid $lt-gray;
     border-bottom: 1px solid $lt-gray;
     padding: 10px;
+}
+
+.card-header:hover {
+    cursor: pointer;
 }
 
 .carousel {
@@ -91,4 +104,33 @@ body{
     right: 0px;
     position: absolute;
     bottom: 0px;
+}
+
+.my-button {
+    background-color: #ffc400;
+    color: #0F0F0F;
+}
+
+#loginButton:hover {
+    cursor: pointer;
+}
+
+#loginModal .modal-header {
+    background-color: $background-dark;
+    color: floralwhite;
+    font-weight: bold;
+}
+
+#loginModal .modal-body {
+    background-color: $background-pale;
+}
+
+#reserveModal .modal-header {
+    color: floralwhite;
+    font-weight: bold;
+    background-color: $background-dark;
+}
+
+#reserveModal .modal-body {
+    background-color: $background-pale;
 }
