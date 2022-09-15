@@ -83,3 +83,7 @@ body {
   right: 0px;
   position: absolute;
   bottom: 0px; }
+
+#loginButton:hover {
+  cursor: pointer;
+}
